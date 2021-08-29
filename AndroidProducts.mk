@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_kebab.mk
+    $(LOCAL_DIR)/superior_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_kebab-user \
-    havoc_kebab-userdebug \
-    havoc_kebab-eng
+    superior_kebab-user \
+    superior_kebab-userdebug \
+    superior_kebab-eng
