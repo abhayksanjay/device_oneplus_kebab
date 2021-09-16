@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_kebab.mk
+    $(LOCAL_DIR)/aosp_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_kebab-user \
-    superior_kebab-userdebug \
-    superior_kebab-eng
+    aosp_kebab-user \
+    aosp_kebab-userdebug \
+    aosp_kebab-eng
